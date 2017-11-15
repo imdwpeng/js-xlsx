@@ -1,5 +1,6 @@
-# 采用[js-xlsx](http://sheetjs.com/)插件
+# 导入导出excel（js-xlsx）插件用法案例
 
+采用[js-xlsx](http://sheetjs.com/)插件
 下载 [js-xlsx](https://github.com/SheetJS/js-xlsx) ，复制出`tests/xlsx.full.min.js`
 
 导入案例：`import.html`
